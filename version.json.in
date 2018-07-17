@@ -1,0 +1,12 @@
+{
+    "CC": {
+        "path": "@CMAKE_C_COMPILER@",
+        "compiles": @C_COMPILER_COMPILES@,
+        "runs": @C_COMPILER_RUNS@
+    },
+    "CXX": {
+        "path": "@CMAKE_CXX_COMPILER@",
+        "compiles": @CXX_COMPILER_COMPILES@,
+        "runs": @CXX_COMPILER_RUNS@
+    }
+}
